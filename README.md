@@ -1,5 +1,5 @@
 ### Hi I am Dhanush Eashwar 👋.
-### Website: http://dhanushe-dev.surge.sh/
+### Website: <a href="http://dhanushe-dev.surge.sh/" target="_blank">
 
 Here is a bit about me:
 
