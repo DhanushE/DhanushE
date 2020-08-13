@@ -1,8 +1,6 @@
 ### Hi I am Dhanush Eashwar 👋.
 
 
-<br/>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
 
 <br />
