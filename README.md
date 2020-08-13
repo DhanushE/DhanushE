@@ -19,14 +19,8 @@
 ### - Blogs 🌱
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
+Coming Soon.
 </p>
-
-### - Podcast ⚡️
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
-</p>
-
 
 ***********************************
 
@@ -34,4 +28,4 @@
 
 
 
-⭐️ From [8bithemant](https://github.com/8bithemant)
+⭐️ From Dhanush Eashwar - MasDeveloper101
