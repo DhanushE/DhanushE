@@ -4,7 +4,7 @@
 Here is a bit about me:
 
 - 🔭 I’m currently working on creating apps
-- 🌱 I’m currently learning apple's UI frameworks
+- 🌱 I’m currently learning UI
 - 👯 I’m looking to collaborate on app development
 - 🤔 I’m also intrested in web development, and python
 - 📫 How to reach me: via email, dhanush.eashwar@gmail.com
