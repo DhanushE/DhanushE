@@ -26,7 +26,7 @@
 <br>
 
 <a href="https://github.com/DhanushE">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushE&layout=compact)](https://github.com/DhanushE/github-readme-stats)
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushEe&theme=dark&hide_langs_below=1" />
 </a>
 
