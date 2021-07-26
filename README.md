@@ -22,6 +22,9 @@
 - I’m *looking to collaborate* on **any project**.
 - **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 
+<a href="https://github.com/DhanushE">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DhanushE&show_icons=true&theme=dark&line_height=27" alt="Dhanush's github stats"/>
+</a>
 
 <br>
 
