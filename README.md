@@ -10,7 +10,7 @@ Here is a bit about me:
 - 📫 How to reach me: via email, dhanush.eashwar@gmail.com
 - ⚡ Fun fact: I have created a few apps and games that have been released, and rated 5 stars.
 
-[![Dhanush's github stats](https://github-readme-stats.vercel.app/api?username=MasDeveloper101)](https://github.com/MasDeveloper101/)
+[![Dhanush's github stats](https://github-readme-stats.vercel.app/api?username=DhanushE)](https://github.com/DhanushE/)
 
 <br />
 
