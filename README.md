@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    I am a incoming freshman at North Creek High School, who has been super interested in <b>software development</b> for the past three years. I have developed multiple mobile, ios and web applications to help students and teachers. I am also really interested in Augmented Reality and have build multiple apps incorporating that. I have also developed an ASL hand classifier app to make it easier for people to learn ASL.
+    I am a incoming freshman at North Creek High School, who has been super interested in <b>software development</b> for the past three years. I have developed multiple mobile, ios and web applications to <b>help students and teachers</b>. I am also really interested in <b>Augmented Reality</b> and have build multiple apps incorporating that. I have also developed an <b>ASL hand classifier app</b> to make it easier for people to learn ASL.
   </em>  
 </p>
 
