@@ -25,6 +25,9 @@
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushE)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <a href="https://github.com/DhanushE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushEe&theme=dark&hide_langs_below=1" />
 </a>
