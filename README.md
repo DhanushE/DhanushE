@@ -52,14 +52,8 @@
 
 <br>
 <!--
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
+![Dhanush's github stats](https://github-readme-stats.vercel.app/api?username=DhanushE&show_icons=true&hide_border=true)
 -->
-
-<br>
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
-<br>
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
