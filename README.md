@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Dhanush</h1>
-<h3 align="center">A passionate developer from USA</h3><img style = "display: inline;"src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<h3 align="center">A passionate developer from USA</h3>
 
 <p>
   <em>
