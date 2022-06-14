@@ -10,7 +10,7 @@
 <br>
 
 - I’m *currently* **working on school homework** or *coding* 👨‍💻
--  I’m *currently learning* **Vue.js**
+-  I’m *currently learning* **Vue.js, and GraphQL**
 - I’m *looking to collaborate* on **any project**.
 - **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 
