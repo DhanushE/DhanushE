@@ -1,27 +1,18 @@
-<h1 align="center">👋 Hey, I'm Dhanush</h1>
-<h3 align="center">A passionate developer from USA</h3>
+### Hi there 👋
 
-<p>
-  <em>
-    I am a freshman at North Creek High School, who has been super interested in <b>software development</b> for the past three years. I have developed multiple mobile, ios and web applications to <b>help students and teachers</b>. I am also really interested in <b>Augmented Reality</b> and have build multiple apps incorporating that.
-  </em>  
-</p>
+#### I'm a Full-Stack Developer studying in Bothell, Washington.
 
-<br>
+##### NOW
 
-- I’m *currently* **working on school homework** or *coding* 👨‍💻
--  I’m *currently learning* **Vue.js, and GraphQL**
-- I’m *looking to collaborate* on **any project**.
-- **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
+- ✨ Inventing the next student to teacher communication platform;
+- 🇵🇹 Studying for Exams;
 
-<a href="https://github.com/DhanushE">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DhanushE&show_icons=true&theme=dark&line_height=27" alt="Dhanush's github stats"/>
-</a>
+##### BIO
 
-<br>
-<br>
-
-
-
-
-<br>
+- 🏢 I'm currently a student at **North Creek High School**
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.dart`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **App Development Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **development**, **ios**, **flutter**
+- 📫 Reach me: dhanush.eashwar@gmail.com
+- ⚡️ Fun fact: I'm a huge fan of Apple Products
